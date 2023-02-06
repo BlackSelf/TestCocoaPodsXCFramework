@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name              = 'TestCocoaPodsXCFramework'
-  s.version           = '0.1.0'
+  s.version           = '1.0.1'
   s.summary           = 'A short description of TestCocoaPodsXCFramework.'
   s.description       = <<-DESC
-TODO: Add long description of the pod here.
+Description of the pod.
                         DESC
 
   s.documentation_url = 'https://target.my.com/partners/help/sdk'
