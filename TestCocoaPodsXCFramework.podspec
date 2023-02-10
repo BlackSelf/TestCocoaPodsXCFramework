@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name              = 'TestCocoaPodsXCFramework'
-  s.version           = '1.0.1'
+  s.version           = '1.0.2'
   s.summary           = 'A short description of TestCocoaPodsXCFramework.'
   s.description       = <<-DESC
 Description of the pod.
@@ -16,4 +16,5 @@ Description of the pod.
   s.ios.deployment_target = '11.0'
   s.swift_version     = '5.0'
   s.source_files = 'TestCocoaPodsXCFramework/Classes/**/*'
+  s.readme = 'https://github.com/BlackSelf/TestCocoaPodsXCFramework/blob/main/README.md'
 end
